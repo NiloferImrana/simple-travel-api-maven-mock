@@ -5,7 +5,9 @@ Travel API mock
 
 Clone this repo and start the mock:
 
-`mvn clean install`
+`mvn clean install` for clean and build
+
+Run SimpleTravelApiBootStrap main file to start the application
 
 The mock resources are protected and require authentication through OAuth 2 to gain access. The following credentials can be used to connect to the service:
  
