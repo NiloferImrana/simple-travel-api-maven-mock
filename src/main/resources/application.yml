@@ -1,3 +1,7 @@
+security:
+  user:
+    password: password
+
 debug: true
 
 logging:
